@@ -2,7 +2,6 @@ import random
 import os
 import site
 import PySimpleGUI as sg
-from numpy import size
 import string
 
 class passgen():
